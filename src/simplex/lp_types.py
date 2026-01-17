@@ -1,3 +1,9 @@
+"""
+lp_types.py
+
+Module defining types used in linear programming.
+"""
+
 from dataclasses import dataclass
 from enum import Enum
 from typing import Optional

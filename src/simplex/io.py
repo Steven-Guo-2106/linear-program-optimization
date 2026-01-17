@@ -1,3 +1,8 @@
+"""
+io.py
+
+Module for reading linear programs from user input or JSON files.
+"""
 import json
 from pathlib import Path
 from typing import Any, Dict, List, Union

@@ -1,3 +1,8 @@
+"""
+two_phase.py
+
+Module implementing the two-phase simplex algorithm.
+"""
 import numpy as np
 
 from .lp_types import LPStatus

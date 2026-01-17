@@ -1,3 +1,9 @@
+"""
+cli.py
+
+Command-line interface for the two-phase simplex solver.
+"""
+
 import argparse
 from pathlib import Path
 
